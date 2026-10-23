@@ -1,0 +1,5 @@
+faster-whisper>=1.0
+Pillow>=10.0
+numpy>=1.26
+uharfbuzz>=0.40
+freetype-py>=2.4

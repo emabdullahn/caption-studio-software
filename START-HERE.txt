@@ -1,0 +1,16 @@
+CAPTION STUDIO v3 — SETUP (3 steps, one time)
+
+1. COPY THE MODEL (only if you already have the old install):
+   Open your OLD caption-studio folder, copy its "models" folder,
+   and paste it into THIS folder (next to app.py).
+   Without it, the Large model would download again on first use.
+
+2. INSTALL:
+   Double-click install.bat and let it finish.
+   (You can delete the OLD caption-studio folder afterwards.)
+
+3. RUN:
+   Double-click run.bat.
+   The window title must say "Caption Studio v3" and the log's first
+   line must say "Urdu engine ready". If either is missing, you are
+   opening an old copy — use this folder instead.
